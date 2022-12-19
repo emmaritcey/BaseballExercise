@@ -1,5 +1,5 @@
-# SportsAnalytics-BaseballPitches
-Predicting whether a fastball pitch is put in play by a right handed batter
+#Predicting Pitches Put in Play
+Predicting whether a fastball pitch by a right handed pitcher is put in play by a right handed batter
 
 ## Train and Test Model
 Run model.py to train model on training.csv and test on deploy.csv
