@@ -1,4 +1,4 @@
-#Predicting Pitches Put in Play
+# Predicting Pitches Put in Play
 Predicting whether a fastball pitch by a right handed pitcher is put in play by a right handed batter
 
 ## Train and Test Model
