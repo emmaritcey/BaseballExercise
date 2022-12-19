@@ -55,7 +55,7 @@ def main():
     xgb_clf = XGBClassifier(booster='gbtree', 
                             n_estimators=100,
                             eta=0.05, 
-                            scale_pos_weight=2,
+                            scale_pos_weight=2.7,
                             subsample=0.5
                            # early_stopping_rounds=5
                             )
