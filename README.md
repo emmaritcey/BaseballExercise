@@ -3,6 +3,7 @@ Predicting whether a fastball pitch is put in play by a right handed batter
 
 ## Train and Test Model
 Run model.py to train model on training.csv and test on deploy.csv
+
 predictions of deploy.csv are saved in predictions.csv
 
 ## Questions
